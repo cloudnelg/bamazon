@@ -1,0 +1,15 @@
+==============================================
+Order details:
+ ================
+ Item:Smash Ultimate
+ Quantity: 2 for $69 ea.
+ Total Cost: $138
+Thank you for your business.
+==============================================
+Order details:
+ ================
+ Item:Toe Jam and Earl
+ Quantity: 5 for $20 ea.
+ Total Cost: $100
+Thank you for your business.
+
